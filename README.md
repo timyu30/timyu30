@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @timyu30
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Front End Development at the moment
+- 🌱 I’m currently learning Bootstrap, AWS, React
+- 💞️ I’m looking to collaborate on any fun projects!
+- 📫 How to reach me, email: tyuen007@gmail.com
 
 <!---
 timyu30/timyu30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
